@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-list-edit",
+  "homepage": "https://github.com/nigel-daniels/bootstrap-list-edit",
+  "authors": [
+    "Nigel Daniels <nigel.daniels@initiatethinking.com>"
+  ],
+  "description": "A bootstrap based editable list",
+  "main": "list-edit.js",
+  "keywords": [
+    "bootstrap",
+    "list",
+    "editable",
+    "builder"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
